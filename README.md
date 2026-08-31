@@ -47,4 +47,12 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0013-roman-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
