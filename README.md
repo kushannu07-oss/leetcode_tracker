@@ -8,6 +8,7 @@
 | [0042-trapping-rain-water](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0189-rotate-array) |
+| [0875-koko-eating-bananas](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0875-koko-eating-bananas) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0278-first-bad-version) |
+| [0875-koko-eating-bananas](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0875-koko-eating-bananas) |
 ## Interactive
 |  |
 | ------- |
