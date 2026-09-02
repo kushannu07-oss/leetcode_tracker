@@ -8,6 +8,7 @@
 | [0042-trapping-rain-water](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0189-rotate-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0012-integer-to-roman](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0189-rotate-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
