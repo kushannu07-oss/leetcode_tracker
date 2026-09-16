@@ -73,4 +73,12 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0459-repeated-substring-pattern) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
