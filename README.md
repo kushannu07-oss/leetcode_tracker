@@ -6,6 +6,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0189-rotate-array) |
 | [0875-koko-eating-bananas](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0875-koko-eating-bananas) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0064-minimum-path-sum) |
 ## Stack
 |  |
 | ------- |
@@ -81,4 +83,8 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0386-lexicographical-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
