@@ -26,6 +26,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -53,6 +54,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0020-valid-parentheses) |
 | [0459-repeated-substring-pattern](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0459-repeated-substring-pattern) |
 ## Binary Search
 |  |
@@ -87,4 +89,8 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0064-minimum-path-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
