@@ -18,6 +18,7 @@
 | [0042-trapping-rain-water](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0189-rotate-array) |
+| [0876-middle-of-the-linked-list](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,4 +94,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/kushannu07-oss/leetcode_tracker/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
